@@ -7,7 +7,7 @@
 
 ## What It Does
 
-Every time Ivan finishes a run, the system automatically:
+Every time a user finishes a run, the system automatically:
 
 1. Receives the activity from Strava via webhook
 2. Fetches the full HR stream and calculates time in each training zone
